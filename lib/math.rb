@@ -5,23 +5,23 @@ end
 
 
 def subtraction(num1, num2)
-  num1 - num2 = difference
-  puts difference
+  difference = num1 - num2 
+  difference
 end
 
 def division(num1, num2)
-  num1 / num2 = quotient
-  puts quotient
+  quotient = num1 / num2 
+  quotient
 end
 
 def multiplication(num1, num2)
-  num1 * num2 = product
-  puts product
+  product = num1 * num2 
+  product
 end
 
 def modulo(num1, num2)
-  num2 / num1 = remainder
-  puts remainder
+  remainder = num2 / num1
+  remainder
 end
 
 def square_root(num)
