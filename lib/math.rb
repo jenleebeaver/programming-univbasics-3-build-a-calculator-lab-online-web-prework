@@ -15,12 +15,12 @@ end
 
 def multiplication(num1, num2)
   num1 * num2 = product
-  puts product 
+  puts product
 end
 
 def modulo(num1, num2)
   num2 / num1 = remainder
-  puts remainder 
+  puts remainder
 end
 
 def square_root(num)
