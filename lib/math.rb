@@ -5,16 +5,16 @@ end
 
 def subtraction(num1, num2)
   num1 - num2 = difference
-  puts difference 
+  puts difference
 end
 
 def division(num1, num2)
   num1 / num2 = quotient
-  puts quotient 
+  puts quotient
 end
 
 def multiplication(num1, num2)
-  num1 * num2 = product 
+  num1 * num2 = product
   puts product 
 end
 
